@@ -1,0 +1,16 @@
+.env
+node_modules
+test-results
+screenshots
+*.log
+dist/
+build/
+.cache/
+.vscode/
+.idea/
+out/
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
